@@ -1,1 +1,2 @@
 # romancep.github.io
+This repository contains a story and life of Henry VII, it consists of his different components and aspects regarding his rule. It will walk through the things thats directed the way he ruled and lived. From his parents to his succesors, it is meant to be a learning tool to see and understand the start of the tudor rule. With the start of Henrys rule we see the beggining ans passing on the torch of the tudor rule.
